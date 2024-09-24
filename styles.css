@@ -1,14 +1,32 @@
 body {
-    background-color: wheat;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: brown;
+    font-family: 'Times New Roman', Times, serif;
 }
 h1 {
     text-align: center;
     color:darkblue;
 }
 .about {
-    text-align: right;
+    text-align: left;
     width: 100%;
     color: yellowgreen;
+}
+.skills {
+    text-align: left;
+    width: 100%;
+    color: red;
+}
+
+.highlighted_projects {
+    text-align: left;
+    width: 100%;
+    color: black;
+}
+
+.contact_me {
+    text-align: left;
+    width: 100%;
+    color:blueviolet;
+
 }
 
