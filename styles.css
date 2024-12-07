@@ -53,14 +53,6 @@ h1 {
     display: block;
     margin: auto;
 }
-.prototype{
-    /* width: 300px; */
-    height: 300px;
-    margin: 10px;
-    border: 2px solid rgb(126, 14, 201); /* choose a color */
-    display: block;
-    margin: auto;
-}
 a { /* change the appearance of ALL links */
     text-decoration: none;
     text-align: center;
